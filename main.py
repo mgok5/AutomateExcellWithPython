@@ -42,3 +42,4 @@ inv_file.save("inventory_with_total_value.xlsx")
 print(f"Products per supplier: {products_per_supplier}")
 print(f"Total value of the products per supplier: {total_value_of_products}")
 print(f"Products need to be reordered: {products_inv_under_10}")
+
